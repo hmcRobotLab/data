@@ -1,0 +1,20 @@
+kinect: 
+    Horizontal field of view: 58 degrees
+    Vertical field of view: 45 degrees
+    Image sensor: Resolution VGA (640 x 480)
+    Frame Rate 30 fps
+    Depth sensor: Resolution VGA (640 x 480)
+    Frame Rate: 30 fps
+    Range: 0.8 - 3.5 m
+    Spatial x/y resolution: 3 mm (@ 2m distance)
+    Depth z resolution: 1 cm (@ 2m distance) 
+Length 11"
+
+height 3"
+
+depth 3" at the widest part (the base)
+
+The Kinect head (the rectangular part) is 11? x 2.5? x 1.5? (w x d x h). The base is 3? x 3? x 1.5? (w x d x h). The cable sticks out the back of the base, so you need more than 3 inches of room. So total height is around 3 inches…will need a little more room because the head tilts on its own and might need space.
+
+5.8
+2.0
