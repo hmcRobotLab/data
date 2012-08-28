@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+	<meta charset="utf-8">
+<meta name="robots" content="noodp">
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta name="google-site-verification" content="sRcy8COOEVzfXadS3NzNsefhbSouqvlesgWngH5kKxs">
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="asDKsqX32MREj5xpPDsXCYkePs3Dzs8t+oAaY0wBZ4M=" name="csrf-token" />
+<link href="http://d9ej3djcdo585.cloudfront.net/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+
+	<title>Dynamixel ax-12a - SolidWorks, STL for 3D - 3D CAD model - GrabCAD</title>
+<meta content="DYNAMIXEL AX-12A - The DYNAMIXEL AX-12A RC SERVO" name="description" />
+<meta content="grabcad, cad, cam, library, free, cad models, cad services, cad drawings, models, open source, solid works, solidedge, autodesk, alibre, autocad, catia, sketchup, keycreator, pro/engineer, spaceclaim" name="keywords" />
+	
+	<link href="http://d9ej3djcdo585.cloudfront.net/assets/app-d13be67cc32b5e5677aa73116121db16.css" media="screen" rel="stylesheet" type="text/css" />
+	
+	
+	<script src="http://d9ej3djcdo585.cloudfront.net/assets/modernizr.min-fa9fbee4a3ede28db77f220b2d800bbe.js" type="text/javascript"></script>
+	
+	          <!-- Analytical Init: Google -->
+          <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-17245501-1']);
+            _gaq.push(['_setDomainName', '.grabcad.com']);
+            
+            _gaq.push(['_trackPageview']);
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+          </script>
+
+
+
+<script type='text/javascript'>
+_gaq.push(['_setCustomVar', 1, 'mid', '220429', 3]);
+_gaq.push(['_trackPageview', "cadfile/download"]);
+</script>
+</head>
+<body id="contentfiles">
+	
+	
+	<header>
+	<nav class="main g1c">
+		<div class="logo">
+			<a href="/home">
+				<img alt="To GrabCAD.com home" src="http://d9ej3djcdo585.cloudfront.net/images/_/gc-logo.png" />
+</a>		</div>
+		<ul class="menu">
+				<li><a href="/home">Home</a></li>
+				<li class="selected"><a href="/library">Library</a></li>
+				<li><a href="/challenges">Challenges</a></li>
+					<li><a href="/questions/tutorials">Questions</a></li>
+				<li><a href="/engineers">Engineers</a></li>
+				<li><a href="http://blog.grabcad.com">Blog</a></li>
+		</ul>
+		<div class="headerRightHalf">
+			<div class="account">
+					<a href="/profile/welcome/1" class="openAccountMenu">
+		<img alt="Missing_tiny" src="https://d2t1xqejof9utc.cloudfront.net/members/avatars/missing_tiny.png" />
+		Alistair D...
+</a>	<div class="accountMenu a140">
+		<div class="navigationItems">
+			<ul class="navigation"><li id="naviUpload"><a href="/upload">Upload model</a></li><li id="naviProfile"><a href="/profile/welcome/1">My profile</a></li><li id="naviSettings"><a href="/profile/edit">My settings</a></li><li id="naviMyfiles"><a href="/myfiles">My files</a></li><li id="naviMyrequests"><a href="/myrequests">My requests</a></li><li id="naviMylikes"><a href="/library/mylikes">My likes</a></li><li class="signout" id="logout"><a href="/logout">Sign out</a></li></ul>
+		</div>
+	</div>
+
+			</div>
+				<div class="headerIcons">
+					<div class="headerSeparatorLine"></div>
+		    		<div class="headerMessages">
+		      			<a class='headerMessagesNone' href="/home/inbox" title="Inbox">
+		     	 		</a>
+		    		</div>
+		    		<div class="headerNotifications">
+		      			<a  href="/notifications" title="Notifications">
+		          			<span>1</span>
+		      			</a>
+		    		</div>
+		    	</div>
+			<div class="headerSearch">
+				<form accept-charset="UTF-8" action="http://grabcad.com/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+	<div class="search siteSearch">
+		<input autocomplete="off" class="searchField" data-url="/quickfilter" id="searchField" name="query" placeholder="Search" size="30" type="text" /><button class="search" type="submit"></button>
+	</div>
+</form>
+			</div>
+		</div>
+	</nav>
+</header>
+	<section id="body" class="">
+		<section id="bodyContent" class="gc">
+			<div class="g1">
+				<div class="flashMessage"></div>
+			</div>			
+			
+	
+
+
+
+<div class="publicProject">
+	<div class="g1">
+		<div class="g2x3c">
+			<a href="/r.and.b" class="avatar">
+				<img alt="Feed" class="img-round" src="https://d2t1xqejof9utc.cloudfront.net/members/avatars/15433/feed.jpg?1311759707" />
+</a>			<h1>Dynamixel ax-12a</h1>
+			<div class="titlemeta tagify">
+				<a class="tag gray" href="/library/software/solidworks" >
+					<span class="">
+						SolidWorks
+						2012
+					</span>
+				</a>
+				<a class="tag gray" href="/library/software/rendering" >
+					<span class="">
+						Rendering
+						
+					</span>
+				</a>
+				<a class="tag gray" href="/library/software/stl-for-3d" >
+					<span class="">
+						STL for 3D
+						
+					</span>
+				</a>
+				<span class="text">
+					By <a href="/r.and.b" class="b">R&amp;B</a> on 29 May 17:55
+						in
+						<a href="/library/category/machine-design" class="tg u">Machine design</a>
+				</span>
+			</div>
+		</div>
+		<div class="buttonWrapper">
+				<div class="dropdownContainer settingsBorder hover_tooltip" data-tooltip="Report this model" >
+					<a href="#" class="openModalDialog" data-local="#report_cadfile_dialog_15284" data-size="355"></a>
+					<span class="flag"></span>
+					
+				</div>
+								<div id="likeHeart" class="likeCadfile heart button icon" tooltip="Like this model" data-identity="15284">
+			<a href="/library/dynamixel-ax-12a/likes" class="hover_tooltip" data-method="post" data-remote="true" data-tooltip="Like this model" data-type="script" id="like_cadfile_15284" rel="nofollow">
+</a>			<span class="image"></span>
+	</div>
+	<script>
+		if (typeof jQuery !== 'undefined') {
+			$("#likeHeart a").infoTooltip();
+			$(".tooltipLayer").hide();
+		}
+	</script>
+
+					<span class="followButton" id=followButton-general-15284>
+					<a href="/library/dynamixel-ax-12a/followings?location=general" class="button b32 gray wide follow action hover_tooltip" data-method="post" data-remote="true" data-tooltip="Start following this model" rel="nofollow">Follow</a>
+
+	</span>
+	<script>
+		if (typeof jQuery !== 'undefined') {
+			$(".followButton a").infoTooltip();
+			$(".tooltipLayer").hide();
+		}
+	</script>
+
+		</div>
+	</div>
+	<div class="g1c cadfileBody">
+		<ul class="projectTabs" data-path ="/library/dynamixel-ax-12a" data-id="15284">
+			<li 
+				 data-tab="overview">
+				<a href="/library/dynamixel-ax-12a">
+					<span>Overview</span>
+				</a>
+			</li>
+			<li 
+				class='selected' data-tab="files">
+				<a href="/library/dynamixel-ax-12a/files">
+					<span>Files</span>
+				</a>
+			</li>
+			<li 
+				 data-tab="updates">
+				<a href="/library/dynamixel-ax-12a/updates_feed">
+					<span>Updates</span>
+				</a>
+			</li>
+		</ul>
+  		<div class="tabsContent files">
+	<div class="filesHeader">
+		<div class="breadcrumbs">
+			<span class="breadcrumbs">
+	<a href='http://grabcad.com/library/dynamixel-ax-12a/files' >DYNAMIXEL AX-12A</a> / <span>AX-12A.stl</span
+</span>
+		</div>
+		<span class="buttons">
+			<span class="button b32 gray" >
+				<a href="/library/dynamixel-ax-12a/versions/AX-12A.stl/"><span class="text">Older versions</span></a>
+			</span>
+		</span>
+	</div>	
+	<div class="fileView mt24">
+		<div class="fileWrapper">
+			<span class='imageWrapper'>
+				<span class="icon threeD"></span>
+			</span>
+			<span class="file">
+				<span class="name">AX-12A.stl</span>
+				<span>STL for 3D</span>
+				<span>0 Bytes</span>
+				<span>about 1 month</span>
+				<span class="inline">by</span>
+				<span class="inline">
+					<a href="/grabby.the.bot-1">Grabby The Bot</a>
+				</span>	
+			</span>
+			<span class="button b32 red">
+				<a href="/library/dynamixel-ax-12a/download?cadid=22617f17f4a692e3df48a73b9694c579">
+					Download
+				</a>
+			</span>
+		</div>
+	</div>
+	<div class="g3x4 comments mt24">
+		<div class="commentsContainer ">
+	<div class="commentsHeader">
+		<h3>Comments:</h3>
+	</div>
+	<ul class="feed comments Contentfile77705" data-nextset='/load_more_comments/Contentfile/77705'>
+	</ul>
+	<div class="leaveComment">
+			<div class="form commentGroup">
+				<span class='avatar'>
+					<img alt="Alistair Dobke" class="img-round lazy" data-original="https://d2t1xqejof9utc.cloudfront.net/members/avatars/missing_feed.png" src="https://d2t1xqejof9utc.cloudfront.net/members/avatars/missing_feed.png" />
+				</span>
+				<div class="formWrapper">
+					<form accept-charset="UTF-8" action="/comments" class="new_comment" data-remote="true" id="new_comment" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="asDKsqX32MREj5xpPDsXCYkePs3Dzs8t+oAaY0wBZ4M=" /></div>
+						<span class="formSection">
+							<input id="comment_commentable_id" name="comment[commentable_id]" type="hidden" value="77705" />
+							<input id="comment_commentable_type" name="comment[commentable_type]" type="hidden" value="Contentfile" />
+							<textarea class="txtInput" cols="70" id="comment_body" name="comment[body]" placeholder="Add your comment about this model" rows="1">
+</textarea>
+							<button type="submit" class="button b32 red inline submitCommentButton modelFeedCommentButton">
+								<span>Post comment</span>
+							</button>
+						</span>
+</form>				</div>
+			</div>
+	</div>
+</div>
+
+	</div>
+</div>
+
+	</div>
+</div>
+
+
+
+<div class="viewerWrapper notVisible">
+    <input type="button" class="cornerClose closeViewer" data-url="/viewers/analytics">
+    <div class="viewerContainer">
+        <div id="viewer_div"></div>
+    </div>
+        <a href="#" class="openModalDialog reportFormat" data-size="355">Problem with the viewer?</a>
+</div>
+
+	<div id="report_cadfile_dialog_15284" class="hidden">
+	<div class="content">
+		<div class="body">
+			<h2 class="alt">Report on DYNAMIXEL AX-12A </h2>
+			<form accept-charset="UTF-8" action="/library/dynamixel-ax-12a/reports" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="asDKsqX32MREj5xpPDsXCYkePs3Dzs8t+oAaY0wBZ4M=" /></div>
+				<span class="formSection">
+					<label for="message"><strong>Reason</strong></label><br>
+					<textarea class="w300 mb10" name="message" id="message" required="required" placeholder="Why you think that CAD model is inappropriate?"></textarea><br>
+					<span>
+						<button class="button b32 gray close mr10"
+							<a href="#"> Cancel</a>
+						</button>
+						<button type="submit" class="button b32 red">
+							<span>Report</span>
+						</button>
+					</span>
+				</span>
+</form>		</div>
+	</div>
+</div>
+
+
+		</section>
+	</section>
+	<a class="replacer hidden"><img alt="" src="https://d9ej3djcdo585.cloudfront.net/images/_/spinner-default.gif" /></a>
+	
+		<div class="feedbackContainer">
+	<div class="wishBtn">
+	<span>i wish this page...</span>
+</div>
+<div class="header">
+	<span class="headerText">
+		<p>i wish this page would...</p>
+	</span>
+	<span class="hideBtn"></span>
+</div>
+<form accept-charset="UTF-8" action="/wish" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="asDKsqX32MREj5xpPDsXCYkePs3Dzs8t+oAaY0wBZ4M=" /></div>
+	<div class="content">
+		<textarea id="feedbackContentText" name="message" class="feedback"></textarea>
+		<input type="hidden" name="page" value="/library/dynamixel-ax-12a/files/AX-12A.stl" />
+	</div>
+	<div class="footer">
+		<button class="button b24 red">
+			<span>send your wish</span>
+		</button>
+	</div>
+</form>
+</div>
+
+	<footer>
+	<nav class="g1c">
+		<ul class="mainNav g1">
+			<li><a href="/home">Home</a></li>
+			<li><a href="/challenges">Challenges</a></li>
+			<li><a href="/library">Library</a></li>
+			<li><a href="/questions">Q&amp;A</a></li>
+			<li><a href="/engineers">Engineers</a></li>
+			<li><a href="http://blog.grabcad.com/">Blog</a></li>
+		</ul>
+		<ul class="secondaryNav g1">
+			<li><a href="/about">About us</a></li>
+			<li><a href="/partners">Partners</a></li>
+			<li><a href="http://blog.grabcad.com/jobs">Jobs</a></li>
+			<li><a href="/badges">Badges</a></li>
+			<li><a href="/faq">FAQs</a></li>
+			<li><a href="/challenges/overview">Challenges overview</a></li>
+			<li><a href="https://twitter.com/GrabCAD">Twitter</a></li>
+			<li><a href="http://facebook.com/GrabCAD">Facebook</a></li>
+		</ul>
+	</nav>
+	<section class="g1c copyright-container">
+		<div class="g2 copyright">© 2012 GrabCAD 
+			<a href="mailto:info@grabcad.com">info@grabcad.com</a>
+			<a href="/terms">Terms of Service</a>
+			<a href="/privacy_policy">Privacy policy</a>
+		</div>
+	</section>
+</footer>
+	<script src="http://d9ej3djcdo585.cloudfront.net/assets/library-ffdd0d6aafc46d9b073a464e35612bd1.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		var IMAGE_PATH = 'http://d9ej3djcdo585.cloudfront.net/images';
+	</script>
+	<script src="http://d9ej3djcdo585.cloudfront.net/assets/app-867b4de7245092ae872831ca433e295b.js" type="text/javascript"></script>
+	
+	
+<!-- Analytical Init: Google Adwords -->
+
+          <!-- Analytical Init: CrazyEgg -->
+          <script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0011/4962.js"> </script>
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","7d26da810c",281772,"elYNQRRbXVRVFBYGDFdNBlsSUlhUVRUWFgtWTg==",0.0,335,new Date().getTime(),"","","","",""])</script></body>
+</html>
